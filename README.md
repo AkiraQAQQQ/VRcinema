@@ -17,4 +17,8 @@ Overall Solution:
   This project is initiated because current available VR applications are not spreading widely, and this should be with reasons. The group members suggested that one of the reasons is that the averters in available applications  are not vivid enough to create an immersive feeling during usage. In this case, the cinema scene was chosen to be the experimental usage of this project since it is one of the most common usages for personal users. After researching on Oculus Big Screen, the official cinema application released by oculus, some of the disadvantages of Oculus Big screen were found. By revising base on the core experience provided by Oculus Big screen, this project might be helping with spreading VR technology by expanding personal ability over online media consumption.
 
 Implementation Considerations:
-  1. Although the 
+  1. Although the network system is a essential part of this project, we did not have enough time for it to be deployed, hopefully it can be done in the future.
+  2. the turnning is now set to 45 degree per turn, it can be programmed to stepless changing.
+  3. destroyable scene is designed in the initial design to make it possible for serving different use. However, it takes longer to go through and understand Oculus developer manual, so this stage is not reached.
+  4. the implementation of eye tracking need both parts and mechinal engineering knowledge which are not available currently.\
+  5. the implementation of action tracking technology will be a direction, but the space problem need to be solved.
