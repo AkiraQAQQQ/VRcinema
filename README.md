@@ -26,7 +26,7 @@ Implementation Considerations:
 Work devision:
   All the group members participate in the initial design of the project, including brainstorming, direction confirmation, and research on assigned parts.
   Zhe Yang:
-    Responsible for 3D modeling, schedule checking, in-group communication conductor.
+    Responsible for 3D modeling, scene building, schedule checking, in-group communication conductor.
   Zhenyu Zhang:
     Responsible for network system coding and testing.
   Dejun Liu:
