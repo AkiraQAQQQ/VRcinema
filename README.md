@@ -22,3 +22,12 @@ Implementation Considerations:
   3. destroyable scene is designed in the initial design to make it possible for serving different use. However, it takes longer to go through and understand Oculus developer manual, so this stage is not reached.
   4. the implementation of eye tracking need both parts and mechinal engineering knowledge which are not available currently.\
   5. the implementation of action tracking technology will be a direction, but the space problem need to be solved.
+
+Work devision:
+  All the group members participate in the initial design of the project, including brainstorming, direction confirmation, and research on assigned parts.
+  Zhe Yang:
+    Responsible for 3D modeling, schedule checking, in-group communication conductor.
+  Zhenyu Zhang:
+    Responsible for network system coding and testing.
+  Dejun Liu:
+    Final presentation, material organization, and production test.
